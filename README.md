@@ -2,6 +2,7 @@
 
 # Project Overview:
   The growing size of Excel files has caused performance problems, making them unresponsive and inefficient.
+  
   To address this issue, the company initiated a project and assembled a team of data analysts. This team will use MySQL as their database management system to extract meaningful insights from the data.
 
 
@@ -44,3 +45,7 @@ The Indian market led with $210.67M in net sales, followed by the USA with $132.
 The AQ BZ Allin one was the top selling product in 2021 with sales of 33.75M
 
 In the APAC region, Amazon was the leading customer, contributing 12.99% of the total sales, with India ranking first in gross sales.
+
+# Tools:
+**MySql:-** to query the database
+**PowerPoint:-** to present the Insights 
