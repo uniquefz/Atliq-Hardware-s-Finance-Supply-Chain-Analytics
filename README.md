@@ -15,20 +15,32 @@
 
 **🔧 Advanced SQL Techniques:**
 User-Defined Functions for customized data handling
+
 Database Views for simplified query access
+
 Stored Procedures for automation
+
 Window Functions (OVER, ROW_NUMBER, RANK, DENSE_RANK) for ranking and data manipulation
+
 Temporary Tables for data processing
+
 Indexes for faster queries and performance improvement
+
 Database Creation & Updates to ensure data integrity
+
 Entity-Relationship Diagrams (ERDs) to visualize data relationships
+
 
 # Key Insights from the Project:
 
 📊**Sales Performance:**
+
 Amazon generated the highest net sales, totaling $109.03M in FY 2021, followed by Atliq Exclusive at $79.92M.
+
 The Indian market led with $210.67M in net sales, followed by the USA with $132.05M.
 
 🌍**Market Analysis:**
+
 The AQ BZ Allin one was the top selling product in 2021 with sales of 33.75M
+
 In the APAC region, Amazon was the leading customer, contributing 12.99% of the total sales, with India ranking first in gross sales.
