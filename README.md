@@ -48,4 +48,5 @@ In the APAC region, Amazon was the leading customer, contributing 12.99% of the 
 
 # Tools:
 **MySql:-** to query the database
+
 **PowerPoint:-** to present the Insights 
